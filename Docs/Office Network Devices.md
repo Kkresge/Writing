@@ -6,7 +6,7 @@ If you look at the chart below, you'll see one example of an office network setu
 
 
 
-![Office network diagram](Office Network Devices.assets/image-20220317205358988.png)
+![Office network diagram](Office Network Devices.assets/diagram.png)
 
 
 
