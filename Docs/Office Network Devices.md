@@ -125,7 +125,7 @@ You can read about other common devices that haven't been mentioned yet below.
 
 A Wireless Access Point (WAP) is used to allow devices to connect to a network wirelessly (Wi-Fi). In small home networks, these are usually not needed because this functionality is typically built into the router provided by your Internet Service Provider. This is sufficient to provide Wi-Fi coverage within a small home, but in larger buildings, you may lose the Wi-Fi connection if you go too far from the router. WAPs can be used in office networks where Wi-Fi access is needed throughout a large building. A WAP can be placed in each room or floor of an office to extend the range of a Wi-Fi network throughout the building.
 
-![UniFi wireless access point](Office%20Network%20Devices.assets/unifi%20wap.jpg)
+![UniFi wireless access point](Office%20Network%20Devices.assets/unifi%20wap.png)
 
 (Image: a UniFi wireless access point)
 
@@ -139,6 +139,6 @@ One manufacturer of WAPs is UniFi. UniFi also manufactures a device called a Clo
 
 A server is a computer that is used to share resources, such as files or programs, over a network. For example, a file server can be used to store and share files that multiple employees need access to. Some server manufacturers are Dell, HP, and Lenovo.
 
-![](Office%20Network%20Devices.assets/dell%20server.jpg)
+![](Office%20Network%20Devices.assets/dell%20server.png)
 
 (Image: a Dell server)
