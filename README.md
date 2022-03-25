@@ -1,6 +1,6 @@
 # Writing
 
-Here you'll find some samples of my technical writing. For context, I've also provided a brief overview of each article below. All of my documentation is written using Markdown syntax and stylized with CSS.
+Here you'll find some samples of my technical writing. For context, I've also provided a brief overview of each article below. All of my documentation is written using Markdown syntax.
 
 
 
